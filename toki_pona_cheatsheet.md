@@ -90,7 +90,7 @@ Further modify predicates with location, manner, reason, etc.
 |------|------------------------------|
 | `kepeken` | making use of, by way of |
 | `lon` | location in relation to something |
-| `sama` | similar / equal to |
+| `sama` | similar/equal to |
 | `tan` | the origin of, because of |
 | `tawa` | towards, from the perspective of |
 
@@ -251,7 +251,7 @@ Append `ala` to the predicate:
 ### Core Vocabulary Phrases
 
 | Word | Meaning | Notes |
-|------|------------|------------------|
+|------|------------|------------------------|
 | `mi` | me, I, we | 1st person pronoun |
 | `sina` | you | 2nd person pronoun |
 | `ona` | he, she, it, they | 3rd person pronoun |
@@ -271,7 +271,7 @@ Append `ala` to the predicate:
 | `pake` | stop | |
 | `pali` | to do, make, work | |
 | `pana` | to give | |
-| `pi` | *(groups words into modifier phrase)* | |
+| `pi` | *(groups words into a modifier phrase)* | |
 | `seme` | *(question word)* | |
 | `sona` | knowledge, to know | |
 | `suli` | big, tall, important | |
@@ -373,7 +373,7 @@ Append `ala` to the predicate:
 | `poka` | side, beside, hip |
 | `poki` | container |
 | `pona` | good, simple |
-| `pu` | first Toki Pona book |
+| `pu` | the first Toki Pona book |
 | `sama` | same, equal |
 | `seli` | fire, heat |
 | `seme` | (question word) |
@@ -418,7 +418,7 @@ Append `ala` to the predicate:
 | `jasima` | reverse, opposite |
 | `kin` | also, too (emphasis) |
 | `kipisi` | split |
-| `ku` | Toki Pona dictionary |
+| `ku` | the Toki Pona dictionary book |
 | `lanpan` | steal |
 | `leko` | square, block |
 | `meso` | average |
@@ -451,30 +451,47 @@ Append `ala` to the predicate:
 
 ---
 
-## 4. Name Conversion Rules
+## 4. Name Rules
+
+### Identifying Proper Names
+
+Proper names are capitalized and always begin with an identifying, lowercase noun. 
+The identifier calls out the kind of thing being named.
+
+**Common Identifiers:**
+
+| Identifier | Meaning           |
+| ------------ | ------------------ |
+| `jan`      | Person            |
+| `soweli`   | Animal            |
+| `akesi` | Reptile |
+| `tomo`     | Building          |
+| `ma`       | Country/city/town |
+
+### Name Conversion
 
 Toki Pona uses a specific set of rules to phonetically adapt names from other languages.
 
-### Allowed Letters
+#### Allowed Letters
 
 `a  e  i  j  k  l  m  n  o  p  s  t  u  w`
 
-### Letter Substitutions
+**Letter Substitutions:**
 
 | Original | Toki Pona |
 |------------|------|
-| b | p |
-| d | t |
-| f | p |
-| g | k |
-| r (trilled/tapped) | l |
-| r (English approximant) | w |
-| r (uvular/velar, e.g. French) | k |
-| v | w |
-| y | j |
-| z | s |
+| `b` | `p` |
+| `d` | `t` |
+| `f` | `p` |
+| `g` | `k` |
+| `r` (trilled/tapped) | `l` |
+| `r` (English approximant) | `w` |
+| `r` (uvular/velar, e.g. French) | `k` |
+| `v` | `w` |
+| `y` | `j` |
+| `z` | `s` |
 
-### Syllable Structure
+#### Syllable Structure
 
 Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optional *n*
 
@@ -489,7 +506,7 @@ Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optio
 | `sh` (end of word) | `si` |
 | `th` | `t` or `s` |
 
-### Style Notes
+#### Style Notes
 
 - **Preserve syllable count** — drop a consonant rather than add a new vowel.
 - **Approximants** (`j`, `w`) in consonant clusters can become a syllable or be dropped.
@@ -497,17 +514,16 @@ Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optio
 - **Consonant clusters** — retain the dominant plosive; drop fricatives (`s`) and laterals (`l`) first.
 - Sometimes **rearranging letter order** is better than dropping a sound.
 
-### Examples
+**Examples:**
 
 | English Name | Toki Pona |
 |------------|------------|
-| Jeremiah Daniel Clark | jan Jelemija Tanjes Kalak |
-| Laura Jean Clark | jan Lawa Sin Kalak |
-| Luna | soweli Luna |
-| Casey | soweli Kesi |
-| Autumn | soweli Otem |
-| Finnegan | soweli Penakan |
-| Murphy | soweli Mewsi |
+| Jeremiah D Clark | `jan Jelemija T Kalak` |
+| John Patrick Smith | `jan Jon Pawik Smit` |
+| Trisha Scott Butler | `jan Tinsa Sot Putjew` |
+| Luna (cat) | `soweli Luna` |
+| Markus (dog) | `soweli Makus` |
+| Reptar (lizard) | `akesi Wepjar` |
 
 ---
 
