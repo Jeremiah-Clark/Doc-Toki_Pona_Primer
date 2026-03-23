@@ -1,0 +1,46 @@
+---
+title: "Toki Pona — An Unofficial Primer"
+author: "Jeremiah D Clark"
+date: "2026-03-22"
+version: "1.0"
+keywords:
+  - keywords
+subject: "An Unofficial Primer & Reference for Toki Pona."
+lang: en-US
+
+# Template controls
+logo: images/Toki_Pona_logo_(official_colors).png     # Will be large and centered on title page
+disclaimer: "Toki Pona was created by Sonja Lang in the early 2000s and was released to the public. It has been modified and expanded by Lang and a growing community of enthusiasts ever since. This document is my own, but I have no claim on Toki Pona itself. It is a compilation of my notes and learning about Toki Pona as I currently understand it. This is by no means authoritative."
+toc: true                 # true/false
+toc-depth: 2              # 1-6
+secnumdepth: 2            # 0 = no numbers; 1 = H1 only; 2 = H1, and H2; 3 = H1, H2, and H3
+
+# PDF settings
+fontsize: 11pt
+papersize: letter         # letter/a4
+
+# ---------------------------------------------------------------------------
+# Style settings
+# ---------------------------------------------------------------------------
+# Fonts
+font-body: "Noto Sans"
+font-heading: "Noto Sans"
+font-mono: "Noto Sans Mono"
+
+# Line spacing (1.0 = single, 1.25 = default, 1.5 = one-and-a-half)
+linespread: "1.25"
+
+# Colors — RGB values as "R,G,B" (0–255)
+color-heading: "25,55,120"
+color-link: "40,80,180"
+
+# Callout colors — LaTeX color names (red, blue, orange, green, etc.)
+# The template derives the title bar, border, and background from this base.
+color-important: "red"
+color-note: "blue"
+color-warning: "orange"
+color-tip: "green"
+color-caution: "yellow"
+color-summary: "violet"
+color-example: "black"
+---
