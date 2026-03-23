@@ -1,3 +1,5 @@
+### Forword
+
 Toki Pona is a minimalist constructed language with ~120–140 words and simple grammar. 
 Its name means roughly *"good language"* or *"simple language."* 
 It is intended to be fun to speak and flexible—designed to foster positive thoughts and interactions.
@@ -5,6 +7,8 @@ It is intended to be fun to speak and flexible—designed to foster positive tho
 This guide covers grammar, key phrases, the full word list, and how to convert English names.
 It is intended to be a helpful guide for beginners and a useful reference for speakers at all levels.
 It is not a substitute for a structured course or textbook—no exercises, lessons, or guided progression are included.
+
+If you are serious about studying Toki Pona, I’ve included a few links to more “official” sources at the end of this document. 
 
 ---
 
