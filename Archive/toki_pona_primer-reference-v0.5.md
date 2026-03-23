@@ -1,14 +1,57 @@
-# Toki Pona — Cheatsheet
+# Toki Pona — An Unofficial Primer & Reference
 
 Toki Pona is a minimalist constructed language with ~120–140 words and simple grammar. 
 Its name means roughly *"good language"* or *"simple language."* 
+It is intended to be fun to speak and flexible—designed to foster positive thoughts and interactions.
+
 This guide covers grammar, key phrases, the full word list, and how to convert English names.
+It is intended to be a helpful guide for beginners and a useful reference for speakers at all levels.
+It is not a substitute for a structured course or textbook—no exercises, lessons, or guided progression are included.
 
 ---
 
-## 1. Grammar
+# Essential Vocabulary
 
-### Basic Sentence Structure
+If you want to get going quickly, these words are—in my estimation—the least you need to know.
+
+| Word     | Meaning                                 | Notes                 |
+| -------- | --------------------------------------- | --------------------- |
+| `mi`     | me, I, we                               | 1st person pronoun    |
+| `sina`   | you                                     | 2nd person pronoun    |
+| `ona`    | he, she, it, they                       | 3rd person pronoun    |
+| `ni`     | this, that                              | demonstrative pronoun |
+| `jan`    | person                                  |                       |
+| `soweli` | animal, creature                        |                       |
+| `toki`   | language, communication                 |                       |
+| `ante`   | difference, opposite                    |                       |
+| `lon`    | in/at/on; to exist                      |                       |
+| `pali`   | to do, make, work                       |                       |
+| `kama`   | to become, becoming, became             |                       |
+| `wile`   | to want, to need                        |                       |
+| `jo`     | to have                                 |                       |
+| `pana`   | to give                                 |                       |
+| `sona`   | knowledge, to know                      |                       |
+| `tawa`   | to go, travel, movement                 |                       |
+| `tan`    | from, originates in                     |                       |
+| `ali`    | all, everything                         |                       |
+| `ala`    | no, nothing, zero                       |                       |
+| `mute`   | many, a lot                             |                       |
+| `open`   | open, start                             |                       |
+| `pake`\* | stop                                    |                       |
+| `pini`   | finish, end                             |                       |
+| `suli`   | big, tall, important                    |                       |
+| `lili`   | small, young, unimportant               |                       |
+| `seme`   | *(question word)*                       |                       |
+| `e`      | *(introduces direct object)*            |                       |
+| `la`     | *(context marker)*                      |                       |
+| `pi`     | *(groups words into a modifier phrase)* |                       |
+
+\* *`pake` is an uncommon word. `pini` is a core word, but its meaning is different enough that I believe `pake` is the best choice in this case.*
+
+---
+# Grammar
+
+## Basic Sentence Structure
 
 ```
 X li [B] Y [e Z] [C W]
@@ -27,7 +70,7 @@ X li [B] Y [e Z] [C W]
 
 ---
 
-### Pronouns
+## Pronouns
 
 Used for both singular and plural.
 
@@ -39,21 +82,22 @@ Used for both singular and plural.
 | `ni` | this, that | Use `li` |
 
 > `mi` and `sina` **never** take `li` — the predicate follows directly.
-> `mi kama. mi oko. mi anpa` → *"I came, I saw, I conquered."*
+> `mi kama. mi lukin. mi pakala` → *"I came, I saw, I conquered."*
 
 ---
 
-### Predicates
+## Predicates
 
 The predicate is what the subject **is** or **does**. 
 It can be:
-- An **action** — working, playing, talking
-- A **description** — blue, good, tall
-- A **thing** — a house, an animal, food
+
+- An **action**—working, playing, talking
+- A **description**—blue, good, tall
+- A **thing**—a house, an animal, food
 
 ---
 
-### Preverbs
+## Preverbs
 
 Placed *before* the predicate: 
 `X li <preverb> Y`
@@ -71,7 +115,7 @@ Placed *before* the predicate:
 
 ---
 
-### Direct Object
+## Direct Object
 
 Marked by `e`. 
 The thing the action is done **to**.
@@ -82,7 +126,7 @@ The thing the action is done **to**.
 
 ---
 
-### Prepositions
+## Prepositions
 
 Further modify predicates with location, manner, reason, etc.
 
@@ -98,7 +142,7 @@ Further modify predicates with location, manner, reason, etc.
 
 ---
 
-### Particles
+## Particles
 
 Small words with grammatical functions.
 
@@ -112,43 +156,52 @@ Small words with grammatical functions.
 | `o` | command or vocative |
 | `pi` | marks a modifier phrase |
 
-#### `li` — Predicate Marker
-Omitted only when subject is `mi` or `sina`.
+### `li` — Predicate Marker
+
+Omitted only when the subject is `mi` or `sina`.
 - `soweli li suwi` — *"The animal is cute."*
 - `ona li pali mute li lape lili` — *"They work a lot and sleep a bit."* (multiple predicates: repeat `li`)
 
-#### `e` — Direct Object Marker
+### `e` — Direct Object Marker
+
 `X li Y e Z` → X does Y to Z
 - `soweli li pakala e kasi` — *"The animal breaks the plant."*
 
-#### `pi` — Modifier Phrase
+### `pi` — Modifier Phrase
+
 Groups multiple words into a single modifier for the head noun.
 - `poki pi telo wawa` — *"strong-liquid container"* (e.g. a coffee cup)
 - `poki telo wawa` — *"strong liquid container"* (e.g. a diamond bottle)
 
-#### `o` — Command / Vocative
+### `o` — Command / Vocative
+
 Replaces `li` for commands, wishes, or desires. 
 The subject `sina` can be omitted in direct commands.
+
 - `[sina] o tawa pona` — *"Drive carefully!"*
 - `ona o lape` — *"They should sleep."*
 - `jan Su o lape pona` — *"Hey Su, sleep well!"*
 
-#### `la` — Context Marker
-`X la Y e Z` → *In the context of X, Y does Z*
+### `la` — Context Marker
+
+`X la Y` → *In the context of X, Y*
+
 - `tenpo lon la mi sitelen e lipu sona` — *"Right now, I write a knowledge-document."*
 - `mi la ni li pona` — *"As for me, this is nice."*
 
-#### `en` — Subject Combiner
+### `en` — Subject Combiner
+
 Always omitted for the **first** subject.
 - `jan en soweli li sama mute` — *"People and animals are very similar."*
 
-#### `anu` — Either/Or
+### `anu` — Either/Or
+
 - `waso anu kala li tawa` — *"The bird or the fish moves."*
-- Use to ask either/or questions: `seli suli anu seli lili ni` = *"Is this the ocean or a lake?"*
+- Use to ask either/or questions: `telo suli anu telo lili ni` = *"Is this the ocean or a lake?"*
 
 ---
 
-### Pseudo-Particles
+## Pseudo-Particles
 
 Words that mostly act as particles but can function in other ways too.
 
@@ -159,27 +212,31 @@ Words that mostly act as particles but can function in other ways too.
 | `nanpa` | number, ordinal |
 | `taso` | only, but |
 
-#### `ala` — Negation
+### `ala` — Negation
+
 Append to negate a phrase.
 - `mi pali ala` — *"I will not work."*
 - `mi ken ala toki` — *"I cannot speak."*
 
-#### `nanpa` — Ordinal / Number
+### `nanpa` — Ordinal / Number
+
 - `ilo pi akesi suwi nanpa wan` — *"the first lizard's tool"*
 - `ilo nanpa wan pi akesi suwi` — *"the lizard's first tool"*
 
-#### `kin` — Also / Too
+### `kin` — Also / Too
+
 - `jan li ken pona kin` — *"People can also be peaceful."*
 - `ona kin li tawa sona` — *"They too gain knowledge."*
 
-#### `taso` — Only / But
+### `taso` — Only / But
+
 - `soweli li ken pona taso` — *"Animals can only be good."*
 - `taso ma li sike e suno` — *"But, the earth revolves around the sun."*
 - `ona li taso` — *"They are alone."*
 
 ---
 
-### How to Say "And"
+## How to Say "And"
 
 There is no direct word for "and." 
 Use these constructions:
@@ -193,7 +250,7 @@ Use these constructions:
 
 ---
 
-### Questions
+## Questions
 
 | Method | Construction | Meaning |
 |------------|------------|------------|
@@ -204,23 +261,32 @@ Use these constructions:
 
 ---
 
-### Negation
+## Negation
 
 Append `ala` to the predicate:
-- `mi pali ala` — *"I will not work."*
+- `mi tawa ala` — *"I will not go."*
 - `mi lon ala tomo` — *"I am not in the house."*
 
 ---
 
-### Comparison
+## Comparison
 
-- `jan Ipe li suli. jan Sunsi li lili` — *"Sunsi is smaller than Ipe."*
-- `tomo mi la tomo sina li loje mute` — *"Your house is more red than mine."*
-- `toki ni li pona nanpa wan` — *"This is the best language."*
+Toki Pona offers several ways to compare one thing to another.
+
+1. Put two short comparative sentences one after another.
+- `jan Emily li suli. jan Trisha li lili` — *"Emily is bigger than Trisha."*
+2. Use `la` to present one item in the context of another:
+- `tomo mi la tomo sina li loje mute` — *"Compared to my house, your house is more red."*
+3. Use `tawa`, in the sense of “to,” to express perspective.
+- `kala ni li lili tawa waso ni` — *"That fish is small to that bird."*
+4. Use `lon poka` (next to) for physical comparison:
+- `kili ni li suli lon poka lawa mi` — *“This fruit is big next to my head.”*
+5. For superlatives, declare something `nanpa wan` (number one):
+- `toki ni li pona nanpa wan a` — *"This is the best language."*
 
 ---
 
-### Transitive Statements
+## Transitive Statements
 
 `X li Y e Z` can mean:
 1. **X applies Y to Z** — `mi pona e tomo` → *"I repair the house."*
@@ -228,63 +294,36 @@ Append `ala` to the predicate:
 
 ---
 
-### Interjections & Emoticle
+## Interjections & Emoticle
 
 `a` is the *emoticle* (emotion + particle) — append to any word or phrase to indicate excitement or emphasis.
 - `pona a` — *"So nice!"*
-- `wawa tawa sina` — *"May the force be with you!"*
+- `wawa tawa sina a` — *"May the force be with you!"*
 
 ---
 
-## 2. Key Phrases
+## Example Phrases
+
+Toki Pona handles concepts without direct translations by stacking words into descriptive phrases. Some of these are my own coinages—not community-established terms—but they show the pattern clearly.
 
 | Toki Pona | English |
 |------------|------------------|
-| `mi wile taso li pona e sina` | *I just want to help you* |
+| `mi wile taso e pona sina` | *I just want to help you* |
 | `mi sona` | *I know* |
 | `mi kama sona` | *I'm learning* |
 | `mi wile e ni: moku pona` | *I want good food* |
 | `tenpo lon la mi sitelen e lipu sona` | *Right now, I write a knowledge-document* |
 | `soweli li pali e tomo waso` | *The animal builds a nest* |
 | `mi lukin e mun` | *I watch the stars* |
-
-### Core Vocabulary Phrases
-
-| Word | Meaning | Notes |
-|------|------------|------------------------|
-| `mi` | me, I, we | 1st person pronoun |
-| `sina` | you | 2nd person pronoun |
-| `ona` | he, she, it, they | 3rd person pronoun |
-| `ni` | this, that | demonstrative pronoun |
-| `jan` | person | |
-| `ala` | no, nothing, zero | |
-| `ali` | all, everything | |
-| `ante` | difference, opposite | |
-| `e` | *(introduces direct object)* | |
-| `jo` | to have | |
-| `kama` | to become, becoming, became | |
-| `la` | *(context marker)* | |
-| `lili` | small, young, unimportant | |
-| `lon` | in/at/on; to exist | |
-| `mute` | many, a lot | |
-| `open` | open, start | |
-| `pake` | stop | |
-| `pali` | to do, make, work | |
-| `pana` | to give | |
-| `pi` | *(groups words into a modifier phrase)* | |
-| `seme` | *(question word)* | |
-| `sona` | knowledge, to know | |
-| `suli` | big, tall, important | |
-| `tawa` | to go, travel, movement | |
-| `tan` | from, originates in | |
-| `toki` | language, communication | |
-| `wile` | to want, to need | |
+| `soweli li sona ala` | *Cryptid (unknown creature)* |
+| `soweli jan li linja mute` | *Bigfoot/Sasquatch* |
+| `monsuta li telo lili` | *Lake monster* |
 
 ---
 
-## 3. Full Word List
+# Full Word List
 
-### Core Words (pu)
+## Core Words (pu)
 
 | Word | Meaning |
 |------|------------------------------|
@@ -295,7 +334,7 @@ Append `ala` to the predicate:
 | `ale / ali` | all, everything |
 | `anpa` | bottom, below |
 | `ante` | difference, opposite |
-| `anu` | other, or |
+| `anu` | either/or |
 | `awen` | wait, sustain |
 | `e` | (introduces direct object) |
 | `en` | and, plus |
@@ -365,7 +404,7 @@ Append `ala` to the predicate:
 | `palisa` | rod, stick |
 | `pan` | grain |
 | `pana` | to give |
-| `pi` | of (group multiple words into predicate phrase) |
+| `pi` | of (group multiple words into modifier phrase) |
 | `pilin` | emotion, feel |
 | `pimeja` | black |
 | `pini` | finish, end |
@@ -410,7 +449,7 @@ Append `ala` to the predicate:
 
 ---
 
-### Extended / Community Words (ku & newer)
+## Extended / Community Words (ku & newer)
 
 | Word | Meaning |
 |------|------------------------|
@@ -431,7 +470,7 @@ Append `ala` to the predicate:
 
 ---
 
-### Experimental / Marginal Words
+## Experimental / Marginal Words
 
 | Word | Meaning |
 |------|------------------------|
@@ -444,42 +483,42 @@ Append `ala` to the predicate:
 | `oko` | eye |
 | `pake` | stop |
 | `powe` | fake |
-| `soto` | left ← |
+| `soto` | left (direction) |
 | `te` | open quote |
-| `teje` | right → |
+| `teje` | right (direction) |
 | `to` | close quote |
 
 ---
 
-## 4. Name Rules
+# Name Rules
 
-### Identifying Proper Names
+## Identifying Proper Names
 
 Proper names are capitalized and always begin with an identifying, lowercase noun. 
 The identifier calls out the kind of thing being named.
 
-**Common Identifiers:**
+### Common Identifiers
 
 | Identifier | Meaning           |
 | ------------ | ------------------ |
-| `jan`      | Person            |
-| `soweli`   | Animal            |
-| `akesi` | Reptile |
-| `tomo`     | Building          |
-| `ma`       | Country/city/town |
+| `jan`      | person      |
+| `soweli`   | animal      |
+| `akesi` | reptile |
+| `tomo`     | building  |
+| `ma`       | country/city/town |
 
-### Name Conversion
+## Name Conversion
 
 Toki Pona uses a specific set of rules to phonetically adapt names from other languages.
 
-#### Allowed Letters
+### Allowed Letters
 
 `a  e  i  j  k  l  m  n  o  p  s  t  u  w`
 
-**Letter Substitutions:**
+### Letter Substitutions
 
 | Original | Toki Pona |
-|------------|------|
+|------|------|
 | `b` | `p` |
 | `d` | `t` |
 | `f` | `p` |
@@ -491,7 +530,7 @@ Toki Pona uses a specific set of rules to phonetically adapt names from other la
 | `y` | `j` |
 | `z` | `s` |
 
-#### Syllable Structure
+### Syllable Structure
 
 Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optional *n*
 
@@ -506,7 +545,7 @@ Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optio
 | `sh` (end of word) | `si` |
 | `th` | `t` or `s` |
 
-#### Style Notes
+### Style Notes
 
 - **Preserve syllable count** — drop a consonant rather than add a new vowel.
 - **Approximants** (`j`, `w`) in consonant clusters can become a syllable or be dropped.
@@ -514,7 +553,9 @@ Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optio
 - **Consonant clusters** — retain the dominant plosive; drop fricatives (`s`) and laterals (`l`) first.
 - Sometimes **rearranging letter order** is better than dropping a sound.
 
-**Examples:**
+### Example Names
+
+These are my attempts at converting names to Toki Pona.
 
 | English Name | Toki Pona |
 |------------|------------|
@@ -527,4 +568,12 @@ Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optio
 
 ---
 
-*pona tawa sina — good luck to you*
+**Further Reading:**
+
+- [tokipona.org](https://tokipona.org/) — The official website of Toki Pona and its creator, Sonja Lang
+- [linku.la](https://linku.la/) — A comprehensive index of known and proposed Toki Pona words
+- [sona.pona.la](sona.pona.la) — An extensive wiki covering topics related to Toki Pona
+
+---
+
+*Pona tawa sina a — Good luck to you!*
