@@ -40,7 +40,7 @@
 
 ## Template-only Files
 
-# *.tex
-# *.lua
-*.yaml
-*.sh
+*.tex
+*.lua
+# *.yaml
+# *.sh
