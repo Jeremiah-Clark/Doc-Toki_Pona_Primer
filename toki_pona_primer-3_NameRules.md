@@ -8,11 +8,11 @@ The identifier calls out the kind of thing being named.
 ### Common Identifiers
 
 | Identifier | Meaning           |
-| ------------ | ------------------ |
-| `jan`      | person      |
-| `soweli`   | animal      |
-| `akesi` | reptile |
-| `tomo`     | building  |
+| ---------- | ----------------- |
+| `jan`      | person            |
+| `soweli`   | animal            |
+| `akesi`    | reptile           |
+| `tomo`     | building          |
 | `ma`       | country/city/town |
 
 ## Name Conversion
@@ -25,18 +25,18 @@ Toki Pona uses a specific set of rules to phonetically adapt names from other la
 
 ### Letter Substitutions
 
-| Original | Toki Pona |
-|------|------|
-| `b` | `p` |
-| `d` | `t` |
-| `f` | `p` |
-| `g` | `k` |
-| `r` (trilled/tapped) | `l` |
-| `r` (English approximant) | `w` |
-| `r` (uvular/velar, e.g. French) | `k` |
-| `v` | `w` |
-| `y` | `j` |
-| `z` | `s` |
+| Original                        | Toki Pona                       |
+| ------------------------------- | ------------------------------- |
+| `b`                             | `p`                             |
+| `d`                             | `t`                             |
+| `f`                             | `p`                             |
+| `g`                             | `k`                             |
+| `r` (trilled/tapped)            | `l`                             |
+| `r` (English approximant)       | `w`                             |
+| `r` (uvular/velar, e.g. French) | `k`                             |
+| `v`                             | `w`                             |
+| `y`                             | `j`                             |
+| `z`                             | `s`                             |
 
 ### Syllable Structure
 
@@ -44,14 +44,14 @@ Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optio
 
 **Disallowed syllables:**
 
-| Disallowed | Replace with |
-|------------|------------|
-| `ji, jin` | drop or adjust |
-| `ti, tin` | `si, sin` |
-| `wo, wu` | `o, u` |
-| `nm, nn` | simplify |
-| `sh` (end of word) | `si` |
-| `th` | `t` or `s` |
+| Disallowed         | Replace with                      |
+| ------------------ | --------------------------------- |
+| `ji, jin`          | drop or adjust                    |
+| `ti, tin`          | `si, sin`                         |
+| `wo, wu`           | `o, u`                            |
+| `nm, nn`           | simplify                          |
+| `sh` (end of word) | `si`                              |
+| `th`               | `t` or `s`                        |
 
 ### Style Notes
 
@@ -65,14 +65,14 @@ Syllables follow the pattern: **(C)V(n)** — optional consonant, a vowel, optio
 
 These are my attempts at converting names to Toki Pona.
 
-| English Name | Toki Pona |
-|------------|------------|
-| Jeremiah D Clark | `jan Jelemija T Kalak` |
-| John Patrick Smith | `jan Jon Pawik Smit` |
+| English Name        | Toki Pona              |
+| ------------------- | ---------------------- |
+| Jeremiah D Clark    | `jan Jelemija T Kalak` |
+| John Patrick Smith  | `jan Jon Pawik Smit`   |
 | Trisha Scott Butler | `jan Tinsa Sot Putjew` |
-| Luna (cat) | `soweli Luna` |
-| Markus (dog) | `soweli Makus` |
-| Reptar (lizard) | `akesi Wepjar` |
+| Luna (cat)          | `soweli Luna`          |
+| Markus (dog)        | `soweli Makus`         |
+| Reptar (lizard)     | `akesi Wepjar`         |
 
 ---
 
