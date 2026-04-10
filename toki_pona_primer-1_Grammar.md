@@ -213,7 +213,7 @@ Append `ala` to the predicate:
 
 ## Comparison
 
-Toki Pona offers several ways to compare one thing to another.
+Toki Pona offers several ways to compare one thing to another:
 
 1. Put two short comparative sentences one after another.
 - `jan Emily li suli. jan Trisha li lili` — *"Emily is bigger than Trisha."*
