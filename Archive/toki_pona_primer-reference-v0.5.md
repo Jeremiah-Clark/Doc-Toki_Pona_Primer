@@ -164,7 +164,8 @@ Omitted only when the subject is `mi` or `sina`.
 
 ### `e` — Direct Object Marker
 
-`X li Y e Z` → X does Y to Z
+`X li Y e Z` = X does Y to Z
+
 - `soweli li pakala e kasi` — *"The animal breaks the plant."*
 
 ### `pi` — Modifier Phrase
@@ -184,7 +185,7 @@ The subject `sina` can be omitted in direct commands.
 
 ### `la` — Context Marker
 
-`X la Y` → *In the context of X, Y*
+`X la Y` = *In the context of X, Y*
 
 - `tenpo lon la mi sitelen e lipu sona` — *"Right now, I write a knowledge-document."*
 - `mi la ni li pona` — *"As for me, this is nice."*
